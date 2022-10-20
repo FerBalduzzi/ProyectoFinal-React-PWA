@@ -23,7 +23,7 @@ spring.jpa.properties.hibernate.format_sql=true
 PARA REACT
 clonar el repo o descargarlo en formato zip
 
-mpn install en la terminal para instalar las dependencias
+npm install en la terminal para instalar las dependencias
 
 npm start para levantar el proyecto 
 
